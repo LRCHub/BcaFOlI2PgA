@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ラブコール",
+  "base_artist": "シユイ",
+  "createdAt": "2026-02-23T13:52:52.470496Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラブコール",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/01_ラブコール_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Call [ラブコール]",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/02_Love_Call_[ラブコール]_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラブコール",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/03_ラブコール_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラブコール",
+      "artist": "Shiyui",
+      "has_synced": false,
+      "path": "select/04_ラブコール_Shiyui.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラブコール - Love Call",
+      "artist": "Shiyui",
+      "has_synced": true,
+      "path": "select/05_ラブコール_-_Love_Call_Shiyui.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラブコール",
+      "artist": "シユイ",
+      "has_synced": false,
+      "path": "select/pl_01_ラブコール_シユイ.txt"
+    }
+  ]
+}
